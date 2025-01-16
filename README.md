@@ -7,8 +7,7 @@
  Email : JXS64380@ucmo.edu
  CRN Number: 22287
 
- Githublink: https://github.com/johnsonsingam/NeuralNetwork/tree/Assignment1
-
+ Githublink: https://github.com/johnsonsingam/NeuralNetwork/blob/Assignment1/README.md
  Video Link: 
 
 Question 1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to fullname function that should return the (full name).Write function named “string_alternative” that return severy other char in the full_name string..
